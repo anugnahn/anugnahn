@@ -1,11 +1,17 @@
-## Hi there 👋
-I am ANUGNA H N
+<h2>Hi, I'm Anugna H N 👋</h2>
 
+<p>
+Java Full Stack Development Intern
+ BE Graduate (2026)
+</p>
 
+<p>
+I am passionate about building full-stack web applications and
+continuously improving my backend and frontend skills.
+</p>
 
- I’m currently working on:  **Deep Learning for Lung Image Classification project**
- I’m currently learning: **JAVA FULL STACK**
- I’m looking for help with: **Building efficient ML pipelines and deploying projects on cloud platforms**
- How to reach me: **[anugna64@gmail.com](mailto:anugna64@gmail.com)** 
- Pronouns: **She/Her**
- Fun fact: I enjoy **yoga 🧘‍♀️, ball badminton 🏸, reading 📚, and cooking 🍳**
+<p>
+<b>Skills:</b><br>
+Java | HTML | CSS | JavaScript | SQL | JDBC | Spring (Basics)
+</p>
+
